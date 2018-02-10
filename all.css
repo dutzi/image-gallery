@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.image {
+  padding-bottom: 100%;
+  background-size: cover;
+}
+
+.imageWrapper {
+  float: left;
+  position: relative;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "image-gallery",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer"
+  },
+  "version": ""
+}

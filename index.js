@@ -1,0 +1,1 @@
+createInitializer('gallery-data.json').then(createRenderer)
