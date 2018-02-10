@@ -8,4 +8,4 @@ npm start
 
 Then visit [http://localhost:8000/](http://localhost:8000/)
 
-Or simply visit 
+Or simply visit https://dutzi.github.io/image-gallery/
