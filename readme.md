@@ -1,4 +1,4 @@
-# High performance Image Gallery
+# High Performance Image Gallery
 
 To run this type:
 
